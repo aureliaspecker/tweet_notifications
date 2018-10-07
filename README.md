@@ -1,4 +1,4 @@
-===== Twitter Notifications Via Direct Messages=====
+# Twitter Notifications Via Direct Messages
 
 This Twitter bot is a proof-of-concept application developed to show how to use the Account Activity and Direct Messages APIs. 
 
